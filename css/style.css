@@ -158,6 +158,9 @@ a.downarrow{
 	width: 45%;
 	margin:0 auto;
 }
+.years p i{
+	font-style:normal;
+}
 .labs p{
 	width: 50%;
 	margin: 0 auto;
