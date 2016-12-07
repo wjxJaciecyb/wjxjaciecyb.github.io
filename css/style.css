@@ -141,6 +141,9 @@ a.downarrow{
 .header-section span:nth-child(2){
 	margin-left:10px;
 }
+.about i{
+	font-style: normal;
+}
 .about span p{
 	color: gray;
 	line-height: 2em;
@@ -234,6 +237,8 @@ a.arrow{
 	position:relative;
 }
 .down span{
+	position: absolute;
+	/*top:-50px;*/
 	height:48px;
 	width:48px;
 	background:url(../images/bwn.png);
